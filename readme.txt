@@ -31,3 +31,8 @@ El material aquí presente se cede con el espíritu de compartir el conocimiento
 8. Licencia.
 Toda la documentación e información aquí suministrada se distribuye bajo el amparo de la licencia CREATIVE COMMONS "Attribution-NonCommercial 4.0 International"
 https://creativecommons.org/licenses/by-nc/4.0/
+
+9. Contacto.
+e-mail: contact@nightfoxandco.com
+web: https://nightfoxandco.com
+
