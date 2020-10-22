@@ -1,0 +1,5 @@
+{
+    "sketch": "psu-pro.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM4"
+}

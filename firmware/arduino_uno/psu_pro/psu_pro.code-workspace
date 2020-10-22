@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "psu-pro"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp"
+		}
+	}
+}
